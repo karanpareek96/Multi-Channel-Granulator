@@ -1,0 +1,85 @@
+{
+	"pattrstorage" : 	{
+		"name" : "fxUnits",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Delay_Feedback" : [ 86.614166 ],
+					"Delay_Switch" : [ 1 ],
+					"Delay_Time" : [ 354.330688 ],
+					"EQ" : [ 1, 0, 4, 1, 0, 0, 4336.999512, 1.0, 0.233234 ],
+					"EQ_Switch" : [ 1 ],
+					"FM_Amplitude" : [ 0.874016 ],
+					"FM_Switch" : [ 1 ],
+					"Mod_Rate" : [ 4.72441 ],
+					"Rev_Amplitude" : [ 0.708661 ],
+					"Rev_Switch" : [ 1 ],
+					"Rev_Time" : [ 5118.110352 ],
+					"Wave_Mixer" : [ 19, 118 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"Delay_Feedback" : [ 82.677162 ],
+					"Delay_Switch" : [ 1 ],
+					"Delay_Time" : [ 2716.5354 ],
+					"EQ" : [ 1, 0, 3, 1, 0, 0, 1820.652344, 1.0, 0.510827 ],
+					"EQ_Switch" : [ 1 ],
+					"FM_Amplitude" : [ 1.0 ],
+					"FM_Switch" : [ 1 ],
+					"Mod_Rate" : [ 2.047244 ],
+					"Rev_Amplitude" : [ 0.779528 ],
+					"Rev_Switch" : [ 1 ],
+					"Rev_Time" : [ 3385.826904 ],
+					"Wave_Mixer" : [ 105, 111 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"Delay_Feedback" : [ 56.692909 ],
+					"Delay_Switch" : [ 1 ],
+					"Delay_Time" : [ 1377.952759 ],
+					"EQ" : [ 1, 0, 7, 1, 0, 0, 464.411346, 0.042469, 0.060207 ],
+					"EQ_Switch" : [ 1 ],
+					"FM_Amplitude" : [ 1.0 ],
+					"FM_Switch" : [ 1 ],
+					"Mod_Rate" : [ 8.503937 ],
+					"Rev_Amplitude" : [ 0.787402 ],
+					"Rev_Switch" : [ 1 ],
+					"Rev_Time" : [ 6850.393555 ],
+					"Wave_Mixer" : [ 101, 25 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"Delay_Feedback" : [ 82.677162 ],
+					"Delay_Switch" : [ 1 ],
+					"Delay_Time" : [ 669.291321 ],
+					"EQ" : [ 1, 0, 6, 1, 0, 0, 112.524117, 0.038592, 0.060207 ],
+					"EQ_Switch" : [ 1 ],
+					"FM_Amplitude" : [ 1.0 ],
+					"FM_Switch" : [ 1 ],
+					"Mod_Rate" : [ 2.047244 ],
+					"Rev_Amplitude" : [ 0.740157 ],
+					"Rev_Switch" : [ 1 ],
+					"Rev_Time" : [ 4015.748047 ],
+					"Wave_Mixer" : [ 19, 20 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

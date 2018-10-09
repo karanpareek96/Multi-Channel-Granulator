@@ -1,0 +1,135 @@
+{
+	"pattrstorage" : 	{
+		"name" : "GranStorage",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Audio_List" : [ 1 ],
+					"Grain_Pitch" : [ 2.0 ],
+					"Grain_Size" : [ 0.113386 ],
+					"Gran_Switch" : [ 1 ],
+					"Poly_Voices" : [ 1 ],
+					"Poly_Voices[1]" : [  ],
+					"Random_Pitch" : [ 0.0 ],
+					"Snapshot_Line" : [ 7084.0 ],
+					"Window_Types" : [ 1 ],
+					"maxLen" : [ 7505.624023 ],
+					"minLen" : [ 4342.335938 ],
+					"number[3]" : [ 443.410583 ],
+					"1st" : [  ],
+					"2nd" : [  ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"Audio_List" : [ 8 ],
+					"Grain_Pitch" : [ 2.0 ],
+					"Grain_Size" : [ 0.113386 ],
+					"Gran_Switch" : [ 1 ],
+					"Poly_Voices" : [ 1 ],
+					"Poly_Voices[1]" : [  ],
+					"Random_Pitch" : [ 0.0 ],
+					"Snapshot_Line" : [ 2458.0 ],
+					"Window_Types" : [ 0 ],
+					"maxLen" : [ 3910.63501 ],
+					"minLen" : [ 1682.743774 ],
+					"number[3]" : [ 851.031372 ],
+					"1st" : [  ],
+					"2nd" : [  ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"Audio_List" : [ 5 ],
+					"Grain_Pitch" : [ 1.0 ],
+					"Grain_Size" : [ 0.247244 ],
+					"Gran_Switch" : [ 1 ],
+					"Poly_Voices" : [ 1 ],
+					"Poly_Voices[1]" : [  ],
+					"Random_Pitch" : [ 0.251969 ],
+					"Snapshot_Line" : [ 1631.0 ],
+					"Window_Types" : [ 2 ],
+					"maxLen" : [ 2492.086182 ],
+					"minLen" : [ 639.478455 ],
+					"number[3]" : [ 616.152588 ],
+					"1st" : [  ],
+					"2nd" : [  ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"Audio_List" : [ 6 ],
+					"Grain_Pitch" : [ 4.0 ],
+					"Grain_Size" : [ 0.404724 ],
+					"Gran_Switch" : [ 1 ],
+					"Poly_Voices" : [ 2 ],
+					"Poly_Voices[1]" : [  ],
+					"Random_Pitch" : [ 1.0 ],
+					"Snapshot_Line" : [ 4114.0 ],
+					"Window_Types" : [ 1 ],
+					"maxLen" : [ 4386.825684 ],
+					"minLen" : [ 3448.548828 ],
+					"number[3]" : [ 1008.608154 ],
+					"1st" : [  ],
+					"2nd" : [  ]
+				}
+
+			}
+,
+			"13" : 			{
+				"id" : 13,
+				"data" : 				{
+					"Audio_List" : [ 8 ],
+					"Grain_Pitch" : [ 2.0 ],
+					"Grain_Size" : [ 0.113386 ],
+					"Gran_Switch" : [ 1 ],
+					"Poly_Voices" : [ 1 ],
+					"Poly_Voices[1]" : [ 2 ],
+					"Random_Pitch" : [ 0.0 ],
+					"Snapshot_Line" : [ 1575.0 ],
+					"Window_Types" : [ 0 ],
+					"maxLen" : [ 1607.709839 ],
+					"minLen" : [ 1441.791382 ],
+					"number[3]" : [ 182.291779 ],
+					"1st" : [ 1 ],
+					"2nd" : [ 2 ]
+				}
+
+			}
+,
+			"14" : 			{
+				"id" : 14,
+				"data" : 				{
+					"Audio_List" : [ 8 ],
+					"Grain_Pitch" : [ 2.0 ],
+					"Grain_Size" : [ 0.113386 ],
+					"Gran_Switch" : [ 1 ],
+					"Poly_Voices" : [ 1 ],
+					"Poly_Voices[1]" : [ 2 ],
+					"Random_Pitch" : [ 0.0 ],
+					"Snapshot_Line" : [ 1475.0 ],
+					"Window_Types" : [ 0 ],
+					"maxLen" : [ 1607.709839 ],
+					"minLen" : [ 1441.791382 ],
+					"number[3]" : [ 182.291779 ],
+					"1st" : [ 2 ],
+					"2nd" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
